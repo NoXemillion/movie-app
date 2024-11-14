@@ -22,6 +22,7 @@ Retrofit: Network library for making API requests.
 
 KSP: Kotlin Symbol Processing for Room annotations.
 
+Coroutines : For working with asynchronic programming
 
 
 Project Structure
