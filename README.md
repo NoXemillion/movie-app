@@ -10,12 +10,18 @@ Save to Favorites: Save favorite movies locally using RoomDB.
 Async Data Fetching: Fetch and display movie data using Retrofit, with efficient data handling through ViewModel.
 
 
-Technology Stack
+Technology Stack : 
+
 Kotlin: Main programming language.
+
 Jetpack Compose: UI toolkit for building native Android interfaces.
+
 RoomDB: Local database for persisting favorite movies.
+
 Retrofit: Network library for making API requests.
+
 KSP: Kotlin Symbol Processing for Room annotations.
+
 
 
 Project Structure
