@@ -1,3 +1,4 @@
+
 MovieApp
 A movie browsing application for Android that allows users to search, filter, and save favorite movies. This app utilizes Jetpack Compose for a modern UI, RoomDB for local data persistence, and Retrofit for network requests to fetch movie data.
 
